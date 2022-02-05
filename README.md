@@ -1,1 +1,3 @@
 # MIT-6.0002-Intro-to-Computational-Thinking-and-Data-Science
+
+6.0002 is the continuation of <a href="https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA">6.0001 Introduction to Computer Science and Programming in Python</a> and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
